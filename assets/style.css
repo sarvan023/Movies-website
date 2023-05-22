@@ -1,0 +1,8 @@
+.fdiv{
+    background-image: url(./images/interstellar\ bg.jpg);
+    background-size: cover;
+}
+body{
+    background-image: linear-gradient(grey,lightgrey,lightblue);
+    
+}
